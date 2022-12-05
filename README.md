@@ -6,4 +6,4 @@ Repository for practice in Software System Development 2022
 * Hi this is Hajimu!
 * Write something unique in one line.
 * If you get any conflicts when you make pull requests, try to resolve that by rebasing/merging with the latest contenmt.
-
+* Hello!  This is Justin!

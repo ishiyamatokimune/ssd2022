@@ -27,3 +27,4 @@ Repository for practice in Software System Development 2022
 * The sudden change in temperature has my nose confused. ><
 * It's GS from sdlab!
 * Hi, this is Lin from ubi
+* I'm Nanako. 

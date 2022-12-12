@@ -30,6 +30,6 @@ Repository for practice in Software System Development 2022
 * Hi, this is Lin from ubi
 * I'm Nanako. 
 * Plz merge this comment.
-
+* Sorry for late.
 
 * I'm editting a video now!

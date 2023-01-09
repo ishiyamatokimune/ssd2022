@@ -35,3 +35,4 @@ Repository for practice in Software System Development 2022
 * Sorry for late.
 
 * I'm editting a video now!
+* Hi.
